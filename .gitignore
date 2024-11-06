@@ -1,0 +1,7 @@
+﻿# Visual Studio
+.vs/
+.vsconfig
+*.user
+*.userosscache
+*.suo
+*.userprefs
